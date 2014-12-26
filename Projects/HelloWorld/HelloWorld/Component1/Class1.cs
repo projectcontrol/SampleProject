@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace HelloWorldLib
+namespace Component1
 {
+    /// <summary>
+    /// Component Updated
+    /// </summary>
     public class Class1
     {
-        Class1 obj = new Class1();
-        // data base connection established
     }
 }
