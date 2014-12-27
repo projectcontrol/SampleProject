@@ -11,5 +11,6 @@ namespace Component2
     public class Class1
     {
         // code added by project user one
+        // code changes done by project control
     }
 }
